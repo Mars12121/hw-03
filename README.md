@@ -28,7 +28,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
-![alt text](https://github.com/Mars12121/8.2-HW/blob/main/img/1.png)
+![alt text](https://github.com/Mars12121/hw-03/blob/main/img/1.png)
  ---
 
 ### Задание 2
@@ -59,7 +59,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-![alt text](https://github.com/Mars12121/8.2-HW/blob/main/img/2.png)
+![alt text](https://github.com/Mars12121/hw-03/blob/main/img/2.png)
  ---
 
 ### Задание 4
@@ -73,7 +73,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
-![alt text](https://github.com/Mars12121/8.2-HW/blob/main/img/3.png)
+![alt text](https://github.com/Mars12121/hw-03/blob/main/img/3.png)
  ---
 
 ### Задание 5* со звёздочкой
